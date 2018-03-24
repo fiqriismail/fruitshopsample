@@ -1,0 +1,16 @@
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\MyFruitShop.Web.Api.BL.dll.config
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\MyFruitShop.Web.Api.BL.dll
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\MyFruitShop.Web.Api.BL.pdb
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\EntityFramework.dll
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\MyFruitShop.Web.Api.Models.dll
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\Newtonsoft.Json.dll
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\MyFruitShop.Web.Api.Models.pdb
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\MyFruitShop.Web.Api.Models.dll.config
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\EntityFramework.xml
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\bin\Debug\Newtonsoft.Json.xml
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\obj\Debug\MyFruitShop.Web.Api.BL.csprojResolveAssemblyReference.cache
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\obj\Debug\MyFruitShop.Web.Api.BL.csproj.CoreCompileInputs.cache
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\obj\Debug\MyFruitShop.Web.Api.BL.dll
+c:\users\fiqriismail\source\repos\MyFruitShop\MyFruitShop.Web.Api.BL\obj\Debug\MyFruitShop.Web.Api.BL.pdb
